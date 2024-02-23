@@ -33,7 +33,6 @@ This Python code implements a simple pong game using the Turtle graphics library
 3. `down(self)`: Moves the paddle downward within defined boundaries.
 
 ## Scoreboard Class Documentation 
-
 ### Functions 
 1. `__init__(self)`: Initializes the `Scoreboard` with a white color, hides the turtle icon, and sets initial scores to 0.
 2. `update_scoreboard(self)`: Clears and updates the scoreboard display with the current left and right player scores.
