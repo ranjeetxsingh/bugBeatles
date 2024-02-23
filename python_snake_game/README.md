@@ -1,7 +1,7 @@
 # Python Snake Game Documentation 
 
 ## Introduction 
-The provided Python code implements a simple Snake game using the Turtle graphics library. The game features a snake that the player controls to eat food and grow longer. The snake moves in discrete segments, and its direction can be changed by the player.The player's score is displayed, and the game ends if the snake collides with the wall or itself.
+This provided Python code implements a simple Snake game using the Turtle graphics library. The game features a snake that the player controls to eat food and grow longer. The snake moves in discrete segments, and its direction can be changed by the player.The player's score is displayed, and the game ends if the snake collides with the wall or itself.
 
 *Participants will focus on understanding, testing, and potentially identifying any issues or improvements within the implementation of different classes.*
 
