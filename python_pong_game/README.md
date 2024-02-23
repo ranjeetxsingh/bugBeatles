@@ -1,7 +1,7 @@
 # Python Pong Game Documentation 
 
 ## Introduction 
-This Python code implements a simple pong game using the Turtle graphics library. It involves two paddles and a ball, with players controlling the paddles to bounce the bacll back and forth. The objective is to score points by hitting the ball past the opponent's paddle. 
+This Python code implements a simple pong game using the Turtle graphics library. It involves two paddles and a ball, with players controlling the paddles to bounce the ball back and forth. The objective is to score points by hitting the ball past the opponent's paddle. 
 
 *Participants will focus on understanding, testing, and potentially identifying any issues or improvements within the implementation of different classes.*
 
